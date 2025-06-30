@@ -86,14 +86,14 @@
 
 <!-- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ish-g09&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishikagupta-aivion&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ish-g09&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishikagupta-aivion&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ish-g09&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishikagupta-aivion&theme=radical" alt="GitHub Streak" />
 </p>
