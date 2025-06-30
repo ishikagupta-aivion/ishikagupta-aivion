@@ -6,12 +6,8 @@
   <b>Web Developer 💻&nbsp;&nbsp;|&nbsp;&nbsp;Data Science Enthusiast 📖&nbsp;&nbsp;|&nbsp;&nbsp;Open Source Explorer 🔥</b>
 </h3>
 
-
-
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ish-g09&label=Profile%20views&color=ff69b4&style=flat" alt="ish-g09" />
+  <img src="https://komarev.com/ghpvc/?username=ishikagupta-aivion&label=Profile%20views&color=ff69b4&style=flat" alt="ishikagupta-aivion" />
 </p>
 
 ---
@@ -84,16 +80,12 @@
 
 ### 📊 GitHub Stats
 
-<!-- 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ishikagupta-aivion&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
--->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishikagupta-aivion&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishikagupta-aivion&show_icons=true&locale=en&theme=default" alt="GitHub Stats" class="gh-light-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ishikagupta-aivion&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" class="gh-dark-mode-only" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ishikagupta-aivion&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishikagupta-aivion&theme=default" alt="GitHub Streak" class="gh-light-mode-only" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishikagupta-aivion&theme=radical" alt="GitHub Streak" class="gh-dark-mode-only" />
 </p>
