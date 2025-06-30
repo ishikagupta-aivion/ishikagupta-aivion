@@ -86,6 +86,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ishikagupta-aivion&theme=default" alt="GitHub Streak" class="gh-light-mode-only" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ishikagupta-aivion&theme=radical" alt="GitHub Streak" class="gh-dark-mode-only" />
 </p>
