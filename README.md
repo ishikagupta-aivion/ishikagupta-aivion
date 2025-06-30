@@ -81,7 +81,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishikagupta-aivion&show_icons=true&locale=en&theme=default" alt="GitHub Stats" class="gh-light-mode-only" />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=ishikagupta-aivion&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" class="gh-dark-mode-only" />
 </p>
 
